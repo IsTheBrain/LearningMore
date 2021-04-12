@@ -1,0 +1,9 @@
+{
+  "name": "node-jstutorial",
+  "version": "0.0.0",
+  "description": "NodeJSTutorial",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
