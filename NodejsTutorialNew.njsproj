@@ -34,6 +34,9 @@
     <Content Include="app1.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="appFS.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="readLineExample.js">
       <SubType>Code</SubType>
     </Content>
