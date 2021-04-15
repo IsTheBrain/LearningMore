@@ -37,10 +37,16 @@
     <Content Include="appFS.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="neFile.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="readLineExample.js">
       <SubType>Code</SubType>
     </Content>
     <Content Include="tutorial.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="writeStream.js">
       <SubType>Code</SubType>
     </Content>
     <None Include="server.ts" />
