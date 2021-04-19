@@ -34,16 +34,34 @@
     <Content Include="app1.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="appFilesServers.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="appFS.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="apprw.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="appServer.js">
       <SubType>Code</SubType>
     </Content>
     <Content Include="neFile.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="packagingStuffs.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="readLineExample.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="serverExample.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="tutorial.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="why.js">
       <SubType>Code</SubType>
     </Content>
     <Content Include="writeStream.js">

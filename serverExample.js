@@ -14,4 +14,6 @@ app.get('/example/:name/:age', (req, res) => {
     console.log(req.query);
     console.log(req.query['tutorial']);
     res.send(req.params.name + " : " + req.params.age);
-}); 
+});
+
+//minute 1.50
