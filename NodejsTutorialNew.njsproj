@@ -34,10 +34,22 @@
     <Content Include="app1.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="appEjs.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="appFiles.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="appFilesServers.js">
       <SubType>Code</SubType>
     </Content>
     <Content Include="appFS.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="appJoiEx.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="appMiddleware.js">
       <SubType>Code</SubType>
     </Content>
     <Content Include="apprw.js">
@@ -46,7 +58,13 @@
     <Content Include="appServer.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="manageApp.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="neFile.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="newAppVal.js">
       <SubType>Code</SubType>
     </Content>
     <Content Include="packagingStuffs.js">
@@ -55,10 +73,22 @@
     <Content Include="readLineExample.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="routes\people.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="serverExample.js">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="appPOST.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="appJsonPost.js">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="tutorial.js">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="views\index.ejs">
       <SubType>Code</SubType>
     </Content>
     <Content Include="why.js">
@@ -74,6 +104,11 @@
     <Content Include="tsconfig.json" />
     <Content Include="package.json" />
     <Content Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="routes\" />
+    <Folder Include="views\" />
+    <Folder Include="static\" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\Node.js Tools\Microsoft.NodejsToolsV2.targets" />
   <ProjectExtensions>
